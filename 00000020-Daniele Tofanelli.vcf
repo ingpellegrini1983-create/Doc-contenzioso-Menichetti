@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;Daniele Tofanelli;;;
+FN:Daniele Tofanelli
+item1.TEL;waid=393200862815:+39 320 086 2815
+item1.X-ABLabel:Cellulare
+item2.EMAIL;type=INTERNET:daniele.tofanelli@gmail.com
+item2.X-ABLabel:Casa
+END:VCARD
